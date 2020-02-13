@@ -82,7 +82,7 @@ analytics:
 author:
   name             :
   avatar           : "face.jpg"
-  bio              : "I am a research fellow at Alan Turing Institute. It is fun."
+  bio              : "I am a research fellow at the Alan Turing Institute. It is fun."
   location         : "London, UK"
   employer         : "Alan Turing Institute"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
