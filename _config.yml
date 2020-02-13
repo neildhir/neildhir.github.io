@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # &twitter
+  username               :  &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Neil Dhir"
+  name             :
   avatar           : "face.jpg"
-  bio              : "A little biography, coming soon..."
+  bio              : "I am a research fellow Alan Turing Institute. It is fun."
   location         : "London, UK"
   employer         : "Alan Turing Institute"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
