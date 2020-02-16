@@ -15,6 +15,6 @@ I am (currently) interested in causal inference, automatic information selection
 
 Before coming to the Alan Turing Institute I, along with others, started a company: [Kamin AI](http://kamin.ai/) in Sweden. Whilst in Sweden I was also working as a research fellow at the University of Liverpool, under the guidance of [Colin Bannard](https://www.liverpool.ac.uk/institute-of-life-and-human-sciences/staff/colin-bannard/) and [Tom Stafford](https://www.sheffield.ac.uk/psychology/staff/academic/tom-stafford), developing NLP-based methods for early diagnosis of Parkinson's disease. That work is still ongoing. 
 
-**Prior** to all of that (cheeky little Bayesian word-play for you there) I was a DPhil student at University of Oxford, working with Frank Wood, Ingmar Posner and Michael Osborne. My thesis focused on Bayesian nonparametric methods and their application to powered prosthetics and modelling of lion-behaviour in the South of Africa [(no, really)](https://ora.ox.ac.uk/objects/uuid:6cf7314d-e33d-468b-9bdc-d91ab609c643).
+*Prior* to all of that (cheeky little Bayesian word-play for you there) I was a DPhil student at the University of Oxford, working with Frank Wood, Ingmar Posner and Michael Osborne. My thesis focused on Bayesian nonparametric methods and their application to powered prosthetics and modelling of lion-behaviour in the South of Africa [(no, really)](https://ora.ox.ac.uk/objects/uuid:6cf7314d-e33d-468b-9bdc-d91ab609c643).
 
-Drop us a line: ndhir@turing.ac.uk
+Drop us a line: **ndhir@turing.ac.uk**
