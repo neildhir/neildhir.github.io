@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my ''academic page'' (all serious scientists have one apparently). I am a senior research associate at the [Alan Turing Institute](https://www.turing.ac.uk/) and the University of Warwick. Here I am part of the [Warwick Machine Learning Group (WMLG)](https://wmlg.io/). Here I am part of the Defence and Security group.
+Hello and welcome to my ''academic page'' (all serious scientists have one apparently). I am a senior research associate at the [Alan Turing Institute](https://www.turing.ac.uk/). Here I am part of the Defence and Security group.
 
 I am (currently) interested in causal inference, optimisation,  the sensor scheduling problem, information geometry and more general experimental design (to mention but a few). I am particularly interested in those topics under the umbrella of dynamical systems theory. Under this aegis, I recently completed some postdoctoral work with [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) on the [London Air Quality project](https://www.turing.ac.uk/research/research-projects/london-air-quality), to try to illicit new ideas and understanding in this domain. I also organise [Project Odysseus](https://www.turing.ac.uk/research/research-projects/project-odysseus-understanding-london-busyness-and-exiting-lockdown) - a COVID-19 project.
 
