@@ -1,8 +1,7 @@
 ---
 title: Causal Inference Interest Group (CIIG)
-collection: ciig
-permalink: /_ciig/
-type: "Schedule"
+permalink: /ciig/
+type: ciig
 ---
 
 The CIIG hosts bi-monthly seminars which discuss recent advances in the field of causal inference, from both empirical and formal perspectives. Everyone with an interest in discussing causal inference is very welcome to come along and we particularly encourage PhD students and research associates.
