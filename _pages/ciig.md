@@ -6,7 +6,7 @@ type: ciig
 
 The CIIG hosts bi-monthly seminars which discuss recent advances in the field of causal inference, from both empirical and formal perspectives. Everyone with an interest in discussing causal inference is very welcome to come along and we particularly encourage PhD students and research associates.
 
-Our presenters are drawn from both academia and industry. If you would like to receive like to present your research at the CIIG, please contact the organisers.
+Our presenters are drawn from both academia and industry. If you would like to present your research (or related causal inference material) at the CIIG, please contact the organisers.
 
 For more information see the main [ATI website](https://www.turing.ac.uk/research/interest-groups/causal-inference).
 
