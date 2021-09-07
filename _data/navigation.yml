@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Causal Inference Interest Group"
-    url: /ciig/
+    url: /_ciig/
 
   - title: "Publications"
-    url: /publications/
+    url: /_publications/
 
   #- title: "Talks"
     #url: /talks/

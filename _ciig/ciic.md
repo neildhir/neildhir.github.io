@@ -1,6 +1,7 @@
 ---
 title: Causal Inference Interest Group (CIIG)
 collection: ciig
+permalink: /_ciig/
 type: "Schedule"
 ---
 
