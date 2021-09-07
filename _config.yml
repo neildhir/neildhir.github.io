@@ -11,7 +11,7 @@ title                    : "Neil Dhir"
 title_separator          : "-"
 name                     : &name "Neil Dhir"
 description              : &description "personal description"
-url                      : https://neildhir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://neildhir.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "neildhir/neildhir.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,11 +83,11 @@ author:
   name             :
   avatar           : "face.jpg"
   bio              : "I am a research fellow at the Alan Turing Institute."
-  location         : 
+  location         :
   employer         : "Alan Turing Institute"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=oXki9tsAAAAJ&hl=en"
-  email            :
+  email            : ndhir@turing.ac.uk
   researchgate     : "https://www.researchgate.net/profile/Neil_Dhir"
   uri              :
   bitbucket        :
@@ -243,7 +243,14 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+  # _ciig
+  - scope:
+      path: ""
+      type: ciig
+    values:
+      layout: talk
+      author_profile: true
+      share: tru     share: true
 
 # Sass/SCSS
 sass:
