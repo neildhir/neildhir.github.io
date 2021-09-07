@@ -12,7 +12,7 @@ For more information see the main [ATI website](https://www.turing.ac.uk/researc
 
 ## Practical details
 
-**How to stay tunned?** Please subscribe to the [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/opt-inf-reading-seminar). \
+**How to stay tunned?** Please subscribe to the [mailing list](TBC). \
 **Where?** Currently online but eventually in the Alan Turin Institute, London, UK.\
 **When?** Twice a month. Times and dates may vary. The most up-to-date schedule can be found below.
 
