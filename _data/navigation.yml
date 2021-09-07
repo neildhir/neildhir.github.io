@@ -3,8 +3,8 @@ main:
   - title: "Causal Inference Interest Group"
     url: /ciig/
 
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   #- title: "Talks"
     #url: /talks/
