@@ -16,7 +16,7 @@ For more information see the main [ATI website](https://www.turing.ac.uk/researc
 
 ## Practical details
 
-**Where?** Currently online but eventually in the Alan Turin Institute, London, UK.\
+**Where?** Currently online but eventually in the Alan Turin Institute, London, UK (but will then be streamed).\
 **When?** Twice a month. Times and dates may vary. The most up-to-date schedule can be found below.
 
 ## Mailing list
@@ -35,8 +35,8 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 
 | Date | Speaker | Presentation | Location |
 | -| -| -|-|
-| 25/10/21| [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | [TBC](https://jamanetwork.com/journals/jama/article-abstract/183375)| Online |
-| TBC | [Peter Tennet](https://medicinehealth.leeds.ac.uk/medicine/staff/815/dr-peter-wg-tennant) | [TBC](https://jamanetwork.com/journals/jama/article-abstract/183375)| Online |
+| 18/10/21| [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | TBC | TBC (Online/ATI) |
+| 25/10/21| [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | Counterfactual harm | TBC (Online/ATI) |
 
 ---
 
