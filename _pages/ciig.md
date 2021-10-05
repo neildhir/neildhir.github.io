@@ -33,10 +33,10 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 
 ## Program
 
-| Date | Speaker | Presentation | Location |
-| -| -| -|-|
-| 18/10/21| [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | TBC | TBC (Online/ATI) |
-| 25/10/21| [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | Counterfactual harm | TBC (Online/ATI) |
+| Date | Speaker | Org | Title | Location |
+| -| -| -| -|-|
+| 18/10/21| [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | UCL | TBC | TBC (Online/ATI) |
+| 25/10/21| [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | DeepMind | Counterfactual harm | TBC (Online/ATI) |
 
 ---
 
