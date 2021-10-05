@@ -10,10 +10,6 @@ Our presenters are drawn from both academia and industry. If you would like to p
 
 For more information see the main [ATI website](https://www.turing.ac.uk/research/interest-groups/causal-inference).
 
-## Latest
-
-[07/09/21] The group is currently organising new talks, meetings and a reading group. More information to follow shortly.
-
 ## Practical details
 
 **Where?** Currently online but eventually in the Alan Turin Institute, London, UK (but will then be streamed).\
