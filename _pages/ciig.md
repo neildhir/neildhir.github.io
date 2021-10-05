@@ -17,13 +17,13 @@ For more information see the main [ATI website](https://www.turing.ac.uk/researc
 
 ## Mailing list
 
-**How to stay tunned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1).
+**How to stay tuned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1).
 
 All relevant information will be posted to the list (e.g. zoom links for seminars), so stay up to date by signing up.
 
 ## Team
 
-- Peter Tennet: [P.W.G.Tennant@leeds.ac.uk](mailto:P.W.G.Tennant@leeds.ac.uk)
+- Peter Tennant: [P.W.G.Tennant@leeds.ac.uk](mailto:P.W.G.Tennant@leeds.ac.uk)
 - Mark Gilthorpe: [M.S.Gilthorpe@leeds.ac.uk](mailto:M.S.Gilthorpe@leeds.ac.uk)
 - Neil Dhir: [ndhir@turing.ac.uk](mailto:ndhir@turing.ac.uk)
 
@@ -32,7 +32,7 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 | Date | Speaker | Org | Title | Location |
 | :-: | :-: | :-: | :-: | :-: |
 | 18/10/21| [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | UCL | TBC | TBC (Online/ATI) |
-| 25/10/21| [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | DeepMind | Counterfactual harm | TBC (Online/ATI) |
+| 25/10/21| [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | Babylon health| Counterfactual harm | TBC (Online/ATI) |
 | 29/11/21| [Silvia Chiappa](https://csilviavr.github.io/) & [Alan Malek](http://alanmalek.com/) | DeepMind & MIT| Selecting the Asymptotically Best Causal Effect Estimator with Multi-Armed Bandits | TBC (Online/ATI) |
 | 06/12/21| [Nicola Branchini](https://nicola144.github.io/about.html) | Edinburgh | Causal entropy optimization | TBC (Online/ATI) |
 
