@@ -31,7 +31,7 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 
 | Date | Speaker | Org | Title | Location |
 | :-: | :-: | :-: | :-: | :-: |
-| 18/10/21| [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | UCL | TBC | TBC (Online/ATI) |
+| 18/10/21| [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | UCL | A New Class of Algorithms for Bounding Causal Effects | TBC (Online/ATI) |
 | 25/10/21| [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | Babylon health| Counterfactual harm | TBC (Online/ATI) |
 | 29/11/21| [Silvia Chiappa](https://csilviavr.github.io/) & [Alan Malek](http://alanmalek.com/) | DeepMind | Selecting the Asymptotically Best Causal Effect Estimator with Multi-Armed Bandits | TBC (Online/ATI) |
 | 06/12/21| [Nicola Branchini](https://nicola144.github.io/about.html) | Edinburgh | Causal entropy optimization | TBC (Online/ATI) |
