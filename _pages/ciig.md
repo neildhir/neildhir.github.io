@@ -37,6 +37,7 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 | 15/11/21| [Virginia Aglietti](https://scholar.google.com/citations?user=-itpVyoAAAAJ&hl=en) | DeepMind | Dynamic Causal Bayesian Optimization | TBC (Online/ATI) |
 | 29/11/21| [Silvia Chiappa](https://csilviavr.github.io/) & [Alan Malek](http://alanmalek.com/) | DeepMind | Selecting the Asymptotically Best Causal Effect Estimator with Multi-Armed Bandits | TBC (Online/ATI) |
 | 06/12/21| [Nicola Branchini](https://nicola144.github.io/about.html) | Edinburgh | Causal Entropy Optimization | TBC (Online/ATI) |
+| 31/01/22| [Ciarán Gilligan-Lee](https://www.ciarangilliganlee.com/) | Spotify/UCL | Counterfactual inference via deep twin networks | TBC (Online/ATI) |
 
 ---
 
