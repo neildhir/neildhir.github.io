@@ -12,7 +12,7 @@ For more information see the main [ATI website](https://www.turing.ac.uk/researc
 
 ## Practical details
 
-**Where?** Currently online but eventually in the Alan Turin Institute, London, UK (but will then be streamed).\
+**Where?** Currently online but eventually in the Alan Turing Institute, London, UK (but will then be streamed).\
 **When?** Twice a month. Times and dates may vary. The most up-to-date schedule can be found below.
 
 ## Mailing list
