@@ -39,11 +39,11 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 | 06/12/21| [Nicola Branchini](https://nicola144.github.io/about.html) | Edinburgh | Causal Entropy Optimization | TBC (Online/ATI) |
 | 31/01/22| [Ciarán Gilligan-Lee](https://www.ciarangilliganlee.com/) | Spotify/UCL | Counterfactual inference via deep twin networks | TBC (Online/ATI) |
 
----
-
 ## Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&hl=en_GB&showTabs=1&showNav=1&showDate=1&showTitle=1&showCalendars=1&showTz=1&src=djAxdWoya2szZTZiZGg3YWJwM3ZkNnJ2anNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23795548" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="responsive-iframe-container big-container">
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&hl=en_GB&showTabs=1&showNav=1&showDate=1&showTitle=1&showCalendars=1&showTz=1&src=djAxdWoya2szZTZiZGg3YWJwM3ZkNnJ2anNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23795548" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ---
 
