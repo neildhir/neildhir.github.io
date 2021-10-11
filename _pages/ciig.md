@@ -12,7 +12,7 @@ For more information see the main [ATI website](https://www.turing.ac.uk/researc
 
 ## Practical details
 
-**Where?** Always online but sometimes also in-person in the Alan Turing Institute, London, UK (but will then be streamed as well).\
+**Where?** Always online but sometimes also in-person at the Alan Turing Institute, London, UK (but will then be streamed as well).\
 **When?** Twice a month. Times and dates may vary. The most up-to-date schedule can be found below.
 
 ## Mailing list
@@ -31,7 +31,7 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 
 | Date | Speaker | Org | Title | Location |
 | :-: | :-: | :-: | :-: | :-: |
-| 18/10/21| [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | UCL | A New Class of Algorithms for Bounding Causal Effects | Online & ATI |
+| 18/10/21| [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | UCL | A New Class of Algorithms for Bounding Causal Effects | Online |
 | 25/10/21| [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | DeepMind | Counterfactual harm | TBC (Online/ATI) |
 | 08/11/21| [Johannes Textor](http://johannes-textor.name/) | Nijmegen | TBC | TBC (Online/ATI) |
 | 15/11/21| [Virginia Aglietti](https://scholar.google.com/citations?user=-itpVyoAAAAJ&hl=en) | DeepMind | Dynamic Causal Bayesian Optimization | TBC (Online/ATI) |
