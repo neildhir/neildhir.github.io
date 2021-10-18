@@ -31,7 +31,7 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 
 | Date | Speaker | Org | Title | Location |
 | :-: | :-: | :-: | :-: | :-: |
-| 18/10/21| [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | UCL | A New Class of Algorithms for Bounding Causal Effects | Online |
+| ~~18/10/21~~ | [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | UCL | A New Class of Algorithms for Bounding Causal Effects | Online |
 | 25/10/21| [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | DeepMind | Counterfactual harm | TBC (Online/ATI) |
 | 08/11/21| [Johannes Textor](http://johannes-textor.name/) | Nijmegen | TBC | TBC (Online/ATI) |
 | 15/11/21| [Virginia Aglietti](https://scholar.google.com/citations?user=-itpVyoAAAAJ&hl=en) | DeepMind | Dynamic Causal Bayesian Optimization | TBC (Online/ATI) |
@@ -44,8 +44,6 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 | 28/02/22| [Kellyn Arnold](https://environment.leeds.ac.uk/geography/staff/9604/dr-kellyn-f-arnold) | Leeds | TBC | TBC (Online/ATI) |
 
 ## Calendar
-
-OBS: timings may change.
 
 <div class="responsive-iframe-container big-container">
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&hl=en_GB&showTabs=1&showNav=1&showDate=1&showTitle=1&showCalendars=1&showTz=1&showPrint=0&src=djAxdWoya2szZTZiZGg3YWJwM3ZkNnJ2anNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23795548" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
