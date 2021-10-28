@@ -35,7 +35,7 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 | ~~25/10/21~~ | [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | DeepMind | Counterfactual harm | Online |
 | 08/11/21| [Johannes Textor](http://johannes-textor.name/) | Nijmegen | [How to test DAG models](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.45) | Online |
 | 15/11/21| [Virginia Aglietti](https://scholar.google.com/citations?user=-itpVyoAAAAJ&hl=en) | DeepMind | [Dynamic Causal Bayesian Optimization](https://www.researchgate.net/publication/355648121_Dynamic_Causal_Bayesian_Optimization) | Online/ATI |
-| 29/11/21| [Silvia Chiappa](https://csilviavr.github.io/) & [Alan Malek](http://alanmalek.com/) | DeepMind | Selecting the Asymptotically Best Causal Effect Estimator with Multi-Armed Bandits | TBC (Online/ATI) |
+| 29/11/21| [Silvia Chiappa](https://csilviavr.github.io/) & [Alan Malek](http://alanmalek.com/) | DeepMind | Selecting the Asymptotically Best Causal Effect Estimator with Multi-Armed Bandits | Online |
 | 06/12/21| [Nicola Branchini](https://nicola144.github.io/about.html) | Edinburgh | Causal Entropy Optimization | TBC (Online/ATI) |
 | 13/12/21| [Lewis Hammond](https://www.lewishammond.com/) | Oxford | Reasoning About Causality in Games | TBC (Online/ATI) |
 | 17/01/22| [Hana Chockler](https://www.kcl.ac.uk/people/hana-chockler) | CausaLens/Kings| TBC | TBC (Online/ATI) |
