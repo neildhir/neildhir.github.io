@@ -27,14 +27,6 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 - Mark Gilthorpe: [M.S.Gilthorpe@leeds.ac.uk](mailto:M.S.Gilthorpe@leeds.ac.uk)
 - Neil Dhir: [ndhir@turing.ac.uk](mailto:ndhir@turing.ac.uk)
 
-## Output
-
-Output, as in; what material will you _generally_ find on this website?
-
-- If the speaker is happy to share them you will find the slides (see next section),
-- a reference to a relevant paper (see next section)
-- and from the 15th of November onwards, a recording of the talk (speaker permitting).
-
 ## Program
 
 | Date | Speaker | Org | Title |  Location |
