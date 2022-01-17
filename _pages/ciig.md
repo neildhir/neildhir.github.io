@@ -39,7 +39,7 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 | ~~06/12/21~~ | [Nicola Branchini](https://nicola144.github.io/about.html) | Edinburgh | Causal Entropy Optimization | Online |
 | ~~13/12/21~~ | [Lewis Hammond](https://www.lewishammond.com/) | Oxford | Reasoning About Causality in Games [[Slides](../CIIG/slides/LH_slides_131221.pdf)] | Online |
 | 17/01/22| [Hana Chockler](https://www.kcl.ac.uk/people/hana-chockler) | CausaLens/Kings| Actual causality, responsibility, explanations, and fairness – a bird’s eye view | Online |
-| 31/01/22| [Ciarán Gilligan-Lee](https://www.ciarangilliganlee.com/) | Spotify/UCL | Counterfactual inference via deep twin networks | TBC (Online/ATI) |
+| 31/01/22| [Ciarán Gilligan-Lee](https://www.ciarangilliganlee.com/) | Spotify/UCL | Learning problems from The Causal Hierarchy | Online |
 | 14/02/22| [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/) | Cambridge | Mendelian randomization: Old and new insights | TBC (Online/ATI) |
 | 28/02/22| [Kellyn Arnold](https://environment.leeds.ac.uk/geography/staff/9604/dr-kellyn-f-arnold) | Leeds | TBC | TBC (Online/ATI) |
 
