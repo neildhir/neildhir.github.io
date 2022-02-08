@@ -40,7 +40,7 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 | ~~13/12/21~~ | [Lewis Hammond](https://www.lewishammond.com/) | Oxford | Reasoning About Causality in Games [[Slides](../CIIG/slides/LH_slides_131221.pdf)] | Online |
 | ~~17/01/22~~ | [Hana Chockler](https://www.kcl.ac.uk/people/hana-chockler) | CausaLens/Kings| Actual causality, responsibility, explanations, and fairness – a bird’s eye view [[Slides](../CIIG/slides/HC_slides_170122.pdf)] | Online |
 | ~~31/01/22~~ | [Ciarán Gilligan-Lee](https://www.ciarangilliganlee.com/) | Spotify/UCL | Learning problems from The Causal Hierarchy [[Slides](../CIIG/slides/CL_slides_310122.pdf)]| Online |
-| 14/02/22| [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/) | Cambridge | Mendelian randomization: Old and new insights | TBC (Online/ATI) |
+| 14/02/22| [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/) | Cambridge | Mendelian randomization: Old and new insights [[Slides](http://www.statslab.cam.ac.uk/~qz280/talk/penn-biostat-2021/)] | Online |
 | 28/02/22| [Kellyn Arnold](https://environment.leeds.ac.uk/geography/staff/9604/dr-kellyn-f-arnold) | Leeds | TBC | TBC (Online/ATI) |
 
 ## Calendar
