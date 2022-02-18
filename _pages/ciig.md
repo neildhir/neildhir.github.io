@@ -12,20 +12,10 @@ For more information see the main [ATI website](https://www.turing.ac.uk/researc
 
 ## Practical details
 
-**Where?** Always online but sometimes also in-person at the Alan Turing Institute, London, UK (but will then be streamed as well).\
-**When?** Twice a month. Times and dates may vary. The most up-to-date schedule can be found below.
-
-## Mailing list
-
-**How to stay tuned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1).
-
-All relevant information will be posted to the list (e.g. zoom links for seminars), so stay up to date by signing up. You can also subscribe to the calendar below.
-
-## Team
-
-- Peter Tennant: [P.W.G.Tennant@leeds.ac.uk](mailto:P.W.G.Tennant@leeds.ac.uk)
-- Mark Gilthorpe: [M.S.Gilthorpe@leeds.ac.uk](mailto:M.S.Gilthorpe@leeds.ac.uk)
-- Neil Dhir: [ndhir@turing.ac.uk](mailto:ndhir@turing.ac.uk)
+* **Where?** Always online but sometimes also in-person at the Alan Turing Institute, London, UK (but will then be streamed as well).
+* **When?** Twice a month. Times and dates may vary. The most up-to-date schedule can be found below.
+* **How to stay tuned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1).
+* **Do you have a calendar which I can subscribe to?** You bet we do! Scroll to the bottom of this page.
 
 ## Program
 
@@ -40,7 +30,7 @@ All relevant information will be posted to the list (e.g. zoom links for seminar
 | ~~13/12/21~~ | [Lewis Hammond](https://www.lewishammond.com/) | Oxford | Reasoning About Causality in Games [[Slides](../CIIG/slides/LH_slides_131221.pdf)] | Online |
 | ~~17/01/22~~ | [Hana Chockler](https://www.kcl.ac.uk/people/hana-chockler) | CausaLens/Kings| Actual causality, responsibility, explanations, and fairness – a bird’s eye view [[Slides](../CIIG/slides/HC_slides_170122.pdf)] | Online |
 | ~~31/01/22~~ | [Ciarán Gilligan-Lee](https://www.ciarangilliganlee.com/) | Spotify/UCL | Learning problems from The Causal Hierarchy [[Slides](../CIIG/slides/CL_slides_310122.pdf)]| Online |
-| 14/02/22| [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/) | Cambridge | Mendelian randomization: Old and new insights [[Slides](http://www.statslab.cam.ac.uk/~qz280/talk/penn-biostat-2021/)] | Online |
+| ~~14/02/22~~| [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/) | Cambridge | Mendelian randomization: Old and new insights [[Slides](http://www.statslab.cam.ac.uk/~qz280/talk/penn-biostat-2021/)] | Online |
 | 28/02/22| [Kellyn Arnold](https://environment.leeds.ac.uk/geography/staff/9604/dr-kellyn-f-arnold) | Leeds | TBC | TBC (Online/ATI) |
 
 ## Calendar
