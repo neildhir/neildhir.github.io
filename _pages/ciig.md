@@ -4,6 +4,8 @@ permalink: /ciig/
 type: ciig
 ---
 
+**UPDATE [01/03/2022]:** The CIIG is currently planning new talks, and an email will be sent out in the next few weeks, when all the seminars have been booked in.
+
 The CIIG hosts bi-monthly seminars which discuss recent advances in the field of causal inference, from both empirical and formal perspectives. Everyone with an interest in discussing causal inference is very welcome to come along and we particularly encourage PhD students and research associates.
 
 Our presenters are drawn from both academia and industry. If you would like to present your research (or related causal inference material) at the CIIG, please contact the organisers.
@@ -31,7 +33,7 @@ For more information see the main [ATI website](https://www.turing.ac.uk/researc
 | ~~17/01/22~~ | [Hana Chockler](https://www.kcl.ac.uk/people/hana-chockler) | CausaLens/Kings| Actual causality, responsibility, explanations, and fairness – a bird’s eye view [[Slides](../CIIG/slides/HC_slides_170122.pdf)] | Online |
 | ~~31/01/22~~ | [Ciarán Gilligan-Lee](https://www.ciarangilliganlee.com/) | Spotify/UCL | Learning problems from The Causal Hierarchy [[Slides](../CIIG/slides/CL_slides_310122.pdf)]| Online |
 | ~~14/02/22~~| [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/) | Cambridge | Mendelian randomization: Old and new insights [[Slides](http://www.statslab.cam.ac.uk/~qz280/talk/penn-biostat-2021/)] | Online |
-| 28/02/22| [Kellyn Arnold](https://environment.leeds.ac.uk/geography/staff/9604/dr-kellyn-f-arnold) | Leeds | The effects of lockdown timing on COVID-19 cases across Europe: A counterfactual modelling study | Online |
+| ~~28/02/22~~ | [Kellyn Arnold](https://environment.leeds.ac.uk/geography/staff/9604/dr-kellyn-f-arnold) | Leeds | The effects of lockdown timing on COVID-19 cases across Europe: A counterfactual modelling study | Online |
 
 ## Calendar
 
