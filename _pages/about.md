@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am research scientist at [Siemens Corporate Technology](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html) as well as a visiting researcher at the [Alan Turing Institute](http://www.turing.ac.uk/). I am interested in:
+I am research scientist at [Siemens Corporate Technology](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html) as well as a visiting researcher at the [Alan Turing Institute](http://www.turing.ac.uk/). Some topics that I find interesting:
 
 - causal inference,
 - sequential decision-making under uncertainty,
