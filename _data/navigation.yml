@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Bio"
+   url: /cv/
+
   - title: "Causal Inference Interest Group"
     url: /ciig/
 
@@ -17,9 +21,6 @@ main:
 
   #- title: "Blog Posts"
   #  url: /year-archive/
-
-  #- title: "CV"
-  #  url: /cv/
 
   #- title: "Guide"
   #  url: /markdown/
