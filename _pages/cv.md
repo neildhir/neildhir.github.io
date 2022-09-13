@@ -1,10 +1,6 @@
 ---
-layout: archive
 title: "Bio"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Before coming to Siemens and the Alan Turing Institute, I completed some postdoctoral work with [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) on the [London Air Quality project](https://www.turing.ac.uk/research/research-projects/london-air-quality), to try to illicit new ideas and understanding in this domain. I also helped organise [Project Odysseus](https://www.turing.ac.uk/research/research-projects/project-odysseus-understanding-london-busyness-and-exiting-lockdown) - a COVID-19 project.
