@@ -19,6 +19,12 @@ For more information see the main [ATI website](https://www.turing.ac.uk/researc
 * **How to stay tuned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1).
 * **Do you have a calendar which I can subscribe to?** You bet we do! Scroll to the bottom of this page.
 
+## Other causal inference seminar series
+
+* [Causality Discussion Group](https://www.matej-zecevic.de/cdg/)
+* [UCL Causality Reading Group](https://sites.google.com/view/causalityucl/home)
+* [Stanford Online Causal Inference Seminar](https://datascience.stanford.edu/causal/events/online-causal-inference-seminar) - [13/09/2022] looks like they are on holiday
+
 ## Program
 
 | Date | Speaker | Org | Title |  Location |
