@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am research scientist at [Siemens Corporate Technology](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html) as well as a visiting researcher at the [Alan Turing Institute](http://www.turing.ac.uk/).
+I am research scientist at [Siemens Corporate Technology](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html) as well as a visiting researcher at the [Alan Turing Institute](http://www.turing.ac.uk/). I am interested in:
 
-<!-- I am a senior research associate at the [Alan Turing Institute](https://www.turing.ac.uk/). Here I am part of the Defence and Security group. -->
+- causal inference,
+- sequential decision-making under uncertainty,
+- Bayesian single/multi-objective optimisation and
+- more general experimental design (to mention but a few).
 
-I am interested in causal inference, sequential decision-making under uncertainty, multi-objective optimisation and more general experimental design (to mention but a few). I am particularly interested in those topics under the umbrella of dynamical systems theory.
+I am particularly interested in those topics under the umbrella of dynamical systems theory.
