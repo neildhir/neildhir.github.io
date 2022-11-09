@@ -26,6 +26,8 @@ If you have questions during the talk, please submit the questions using the Zoo
 - **When?** Mostly every month. Times and dates may vary. The most up-to-date schedule can be found below.
 - **How to stay tuned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1).
 - **Do you have a calendar which I can subscribe to?** You bet! Scroll to the bottom of this page.
+- **Will the talks be recorded?** No, but the slides will be made available on this website.
+
 
 ## Other causal inference seminar series
 
