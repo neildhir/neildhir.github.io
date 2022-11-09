@@ -36,14 +36,13 @@ As causal inference is gaining in popularity, there are now many other seminar s
 - [Online Causal Inference Seminar](https://sites.google.com/view/ocis/home)
 - [Causality Discussion Group](https://www.matej-zecevic.de/cdg/)
 - [UCL Causality Reading Group](https://sites.google.com/view/causalityucl/home)
-- [Stanford Online Causal Inference Seminar](https://datascience.stanford.edu/causal/events/online-causal-inference-seminar) - [13/09/2022] looks like they are on holiday
 
 ## Program
 
 | Date | Speaker | Org | Title |  Location | Time |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 28/11/2022 | [Max Little](http://www.maxlittle.net/home/index.php) | MIT / U. of Birmingham | GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference | Online | 8am PT / 11am ET / 4pm GMT |
-| 12/12/2022 | [Matej Zečević](https://www.matej-zecevic.de) | TUM | TBD | Online | 8am PT / 11am ET / 4pm GMT |
+| 28/11/22 | [Max Little](http://www.maxlittle.net/home/index.php) | MIT / Birmingham | GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference | Online | 8am PT / 11am ET / 4pm GMT |
+| 12/12/22 | [Matej Zečević](https://www.matej-zecevic.de) | TUM | TBD | Online | 8am PT / 11am ET / 4pm GMT |
 
 ## Past Program
 
