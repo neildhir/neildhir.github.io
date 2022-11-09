@@ -4,28 +4,46 @@ permalink: /ciig/
 type: ciig
 ---
 
-**UPDATE [01/03/2022]:** The CIIG is currently planning new talks, and an email will be sent out in the next few weeks, when all the seminars have been booked in.
+**UPDATE [08/11/2022]:** The CIIG is back!
 
-The CIIG hosts bi-monthly seminars which discuss recent advances in the field of causal inference, from both empirical and formal perspectives. Everyone with an interest in discussing causal inference is very welcome to come along and we particularly encourage PhD students and research associates.
+The CIIG hosts monthly seminars which discuss recent advances in the field of causal inference, from both empirical and formal perspectives. Everyone with an interest in discussing causal inference is very welcome to come along and I particularly encourage PhD students and research associates.
 
-Our presenters are drawn from both academia and industry. If you would like to present your research (or related causal inference material) at the CIIG, please contact the organisers.
+Presenters are drawn from both academia and industry. If you would like to present your research (or related causal inference material) at the CIIG, please contact yours truly.
 
 For more information see the main [ATI website](https://www.turing.ac.uk/research/interest-groups/causal-inference).
 
+## Format
+
+- 45 minutes of presentation
+- ~10 minutes of discussion, led by the host, usually myself
+- Q & A
+
+If you have questions during the talk, please submit the questions using the Zoom Q & A feature. Time permitting, and depending on the volume of questions, the host will either ask your question for you or confirm with you to ask the question yourself and unmute you at a suitable time.
+
 ## Practical details
 
-* **Where?** Always online but sometimes also in-person at the Alan Turing Institute, London, UK (but will then be streamed as well).
-* **When?** Twice a month. Times and dates may vary. The most up-to-date schedule can be found below.
-* **How to stay tuned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1).
-* **Do you have a calendar which I can subscribe to?** You bet we do! Scroll to the bottom of this page.
+- **Where?** Always online but sometimes also in-person at the Alan Turing Institute, London, UK (but will then be streamed as well).
+- **When?** Mostly every month. Times and dates may vary. The most up-to-date schedule can be found below.
+- **How to stay tuned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1).
+- **Do you have a calendar which I can subscribe to?** You bet! Scroll to the bottom of this page.
 
 ## Other causal inference seminar series
 
-* [Causality Discussion Group](https://www.matej-zecevic.de/cdg/)
-* [UCL Causality Reading Group](https://sites.google.com/view/causalityucl/home)
-* [Stanford Online Causal Inference Seminar](https://datascience.stanford.edu/causal/events/online-causal-inference-seminar) - [13/09/2022] looks like they are on holiday
+As causal inference is gaining in popularity, there are now many other seminar series which discuss causal inference. Here are some of them:
+
+- [Online Causal Inference Seminar](https://sites.google.com/view/ocis/home)
+- [Causality Discussion Group](https://www.matej-zecevic.de/cdg/)
+- [UCL Causality Reading Group](https://sites.google.com/view/causalityucl/home)
+- [Stanford Online Causal Inference Seminar](https://datascience.stanford.edu/causal/events/online-causal-inference-seminar) - [13/09/2022] looks like they are on holiday
 
 ## Program
+
+| Date | Speaker | Org | Title |  Location | Time |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 28/11/2022 | [Max Little](http://www.maxlittle.net/home/index.php) | MIT / U. of Birmingham | GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference | Online | 8am PT / 11am ET / 3pm GMT |
+| 12/21/2022 | [Matej Zečević](https://www.matej-zecevic.de) | TUM | TBD | Online | 8am PT / 11am ET / 3pm GMT |
+
+## Past Program
 
 | Date | Speaker | Org | Title |  Location |
 | :-: | :-: | :-: | :-: | :-: |
