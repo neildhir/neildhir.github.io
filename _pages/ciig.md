@@ -41,7 +41,7 @@ As causal inference is gaining in popularity, there are now many other seminar s
 | Date | Speaker | Org | Title |  Location | Time |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 28/11/2022 | [Max Little](http://www.maxlittle.net/home/index.php) | MIT / U. of Birmingham | GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference | Online | 8am PT / 11am ET / 3pm GMT |
-| 12/21/2022 | [Matej Zečević](https://www.matej-zecevic.de) | TUM | TBD | Online | 8am PT / 11am ET / 3pm GMT |
+| 12/12/2022 | [Matej Zečević](https://www.matej-zecevic.de) | TUM | TBD | Online | 8am PT / 11am ET / 3pm GMT |
 
 ## Past Program
 
