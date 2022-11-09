@@ -28,7 +28,6 @@ If you have questions during the talk, please submit the questions using the Zoo
 - **Do you have a calendar which I can subscribe to?** You bet! Scroll to the bottom of this page.
 - **Will the talks be recorded?** No, but the slides will be made available on this website.
 
-
 ## Other causal inference seminar series
 
 As causal inference is gaining in popularity, there are now many other seminar series which discuss causal inference. Here are some of them:
