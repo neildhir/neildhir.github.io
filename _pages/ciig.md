@@ -4,13 +4,15 @@ permalink: /ciig/
 type: ciig
 ---
 
-**UPDATE [08/11/2022]:** The CIIG is back!
-
 The CIIG hosts monthly seminars which discuss recent advances in the field of causal inference, from both empirical and formal perspectives. Everyone with an interest in discussing causal inference is very welcome to come along and I particularly encourage PhD students and research associates.
 
 Presenters are drawn from both academia and industry. If you would like to present your research (or related causal inference material) at the CIIG, please contact yours truly.
 
 For more information see the main [ATI website](https://www.turing.ac.uk/research/interest-groups/causal-inference).
+
+## Sign up
+
+Subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1) to stay tuned about upcoming talks. There is also an internal Slack channel at the Turing where you can find out about upcoming talks and events.
 
 ## Format
 
@@ -24,9 +26,9 @@ If you have questions during the talk, please submit the questions using the Zoo
 
 - **Where?** Always online but sometimes also in-person at the Alan Turing Institute, London, UK (but will then be streamed as well).
 - **When?** Mostly every month. Times and dates may vary. The most up-to-date schedule can be found below.
-- **How to stay tuned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1).
 - **Do you have a calendar which I can subscribe to?** You bet! Scroll to the bottom of this page.
 - **Will the talks be recorded?** No, but the slides will be made available on this website.
+<!-- - **How to stay tuned?** Please subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1). -->
 
 ## Other causal inference seminar series
 
@@ -40,8 +42,6 @@ As causal inference is gaining in popularity, there are now many other seminar s
 
 | Date | Speaker | Org | Title |  Location | Time |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| TBD | TBD | TBD  | TBD  | Online  | 8am PT / 11am ET / 4pm GMT |
-| TBD | TBD | TBD  | TBD  | Online  | 8am PT / 11am ET / 4pm GMT |
 | ~~12/12/22~~ | [Matej Zečević](https://www.matej-zecevic.de) | TU Darmstadt | Causal explanations of structural causal models [[Slides](../CIIG/slides/MZ_slides_121222.pdf)] | Online | 8am PT / 11am ET / 4pm GMT |
 | ~~28/11/22~~ | [Max Little](http://www.maxlittle.net/home/index.php) | MIT / Birmingham | [GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference](https://joss.theoj.org/papers/10.21105/joss.04534.pdf) [[Slides](../CIIG/slides/GRAPL_ATI_Talk_2022.pdf)]  | Online | 8am PT / 11am ET / 4pm GMT |
 
