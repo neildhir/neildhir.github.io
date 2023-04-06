@@ -14,6 +14,14 @@ For more information see the main [ATI website](https://www.turing.ac.uk/researc
 
 Subscribe to the [mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CIIG&A=1) to stay tuned about upcoming talks. There is also an internal Slack channel at the Turing where you can find out about upcoming talks and events.
 
+## Calendar of events
+
+Below you will find the upcoming talks (click on the 'Agenda' tab to get a list of all scheduled talks).
+
+<div class="responsive-iframe-container big-container">
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&hl=en_GB&showTabs=1&showNav=1&showDate=1&showTitle=1&showCalendars=1&showTz=1&showPrint=0&src=djAxdWoya2szZTZiZGg3YWJwM3ZkNnJ2anNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23795548" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+
 ## Format
 
 - 45 minutes of presentation
@@ -38,17 +46,12 @@ As causal inference is gaining in popularity, there are now many other seminar s
 - [Causality Discussion Group](https://www.matej-zecevic.de/cdg/)
 - [UCL Causality Reading Group](https://sites.google.com/view/causalityucl/home)
 
-## Recent program
-
-| Date | Speaker | Org | Title |  Location | Time |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| ~~12/12/22~~ | [Matej Zečević](https://www.matej-zecevic.de) | TU Darmstadt | Causal explanations of structural causal models [[Slides](../CIIG/slides/MZ_slides_121222.pdf)] | Online | 8am PT / 11am ET / 4pm GMT |
-| ~~28/11/22~~ | [Max Little](http://www.maxlittle.net/home/index.php) | MIT / Birmingham | [GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference](https://joss.theoj.org/papers/10.21105/joss.04534.pdf) [[Slides](../CIIG/slides/GRAPL_ATI_Talk_2022.pdf)]  | Online | 8am PT / 11am ET / 4pm GMT |
-
 ## Past program
 
 | Date | Speaker | Org | Title |  Location |
 | :-: | :-: | :-: | :-: | :-: |
+| ~~12/12/22~~ | [Matej Zečević](https://www.matej-zecevic.de) | TU Darmstadt | Causal explanations of structural causal models [[Slides](../CIIG/slides/MZ_slides_121222.pdf)] | Online |
+| ~~28/11/22~~ | [Max Little](http://www.maxlittle.net/home/index.php) | MIT / Birmingham | [GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference](https://joss.theoj.org/papers/10.21105/joss.04534.pdf) [[Slides](../CIIG/slides/GRAPL_ATI_Talk_2022.pdf)]  | Online |
 | ~~18/10/21~~ | [Ricardo Silva](http://www.homepages.ucl.ac.uk/~ucgtrbd/) | UCL | [A New Class of Algorithms for Bounding Causal Effects](https://papers.nips.cc/paper/2020/hash/e8b1cbd05f6e6a358a81dee52493dd06-Abstract.html) [[Slides](../CIIG/slides/RS_slides_181021.pdf)] | Online |
 | ~~25/10/21~~ | [Jonathan Richens](https://scholar.google.com/citations?user=VtfYF3EAAAAJ&hl=en) | DeepMind | Counterfactual harm | Online |
 | ~~08/11/21~~ | [Johannes Textor](http://johannes-textor.name/) | Nijmegen | [How to test DAG models](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.45) [[Slides](../CIIG/slides/JT_slides_081121.pdf)] | Online |
@@ -60,12 +63,3 @@ As causal inference is gaining in popularity, there are now many other seminar s
 | ~~31/01/22~~ | [Ciarán Gilligan-Lee](https://www.ciarangilliganlee.com/) | Spotify/UCL | Learning problems from The Causal Hierarchy [[Slides](../CIIG/slides/CL_slides_310122.pdf)]| Online |
 | ~~14/02/22~~| [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/) | Cambridge | Mendelian randomization: Old and new insights [[Slides](http://www.statslab.cam.ac.uk/~qz280/talk/penn-biostat-2021/)] | Online |
 | ~~28/02/22~~ | [Kellyn Arnold](https://environment.leeds.ac.uk/geography/staff/9604/dr-kellyn-f-arnold) | Leeds | The effects of lockdown timing on COVID-19 cases across Europe: A counterfactual modelling study [[Slides](../CIIG/slides/KA_slides_010322.pdf)] | Online |
-
-## Calendar
-
-<div class="responsive-iframe-container big-container">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&hl=en_GB&showTabs=1&showNav=1&showDate=1&showTitle=1&showCalendars=1&showTz=1&showPrint=0&src=djAxdWoya2szZTZiZGg3YWJwM3ZkNnJ2anNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23795548" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-</div>
-
-<!-- --- -->
-<!-- ![Causal inference is a strange thing](../images/causal-inference.png) -->
