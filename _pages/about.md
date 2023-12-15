@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am research scientist at [Siemens Corporate Technology](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html) (Berkeley) as well as a visiting researcher at the [Alan Turing Institute](http://www.turing.ac.uk/). Some topics that I find interesting:
+I am research scientist at [Siemens Technology](https://new.siemens.com/us/en/company/siemens-in-the-usa/princeton.html) (Berkeley & Princeton). I am also a visiting researcher at the [Alan Turing Institute](http://www.turing.ac.uk/) and a visiting fellow at [Cranfield University](https://www.cranfield.ac.uk/themes/aerospace).
 
-- causal inference,
+Some topics that I find interesting:
+
 - sequential decision-making under uncertainty,
-- Bayesian single/multi-objective optimisation and
-- more general experimental design (to mention but a few).
+- causal inference,
+- uncertainty quantification,
+- surrogate modelling,
+- design optimisation,
+- experimental design (to mention but a few).
 
-I am particularly interested in those topics under the umbrella of dynamical systems theory.
+I am particularly interested in these topics under the umbrella of dynamical systems theory.
