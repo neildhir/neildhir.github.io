@@ -1,11 +1,11 @@
 ---
-title: "Bio"
+title: "About"
 permalink: /cv/
 ---
 
 ## Fun bio
 
-Apart from the things in the 'real' bio below, I like things which involve boards: snowboard, surfboard, longboard and chessboard (okay, the last one is a lie). Further, being an inhabitant of California I regularly find myself in the ocean, on the mountains, the trails and more often than not cycling around the Bay area. And when one wants to take it a bit slower I break out my guitar or trombone (on occasion, even the flute). I have also been caught singing more than once. Sometimes in a choir.
+Apart from the stuff in the 'real' bio below, I like things which involve boards: snowboard, surfboard, longboard and chessboard (okay, the last one is a lie). Further, being an inhabitant of California I regularly find myself in the ocean, on the mountains, the trails and more often than not cycling around the Bay area. And when one wants to take it a bit slower I break out my guitar or trombone (on occasion, even the flute). I have also been caught singing more than once. Sometimes in a choir.
 
 ## ~~Boring~~ Less interesting bio
 
