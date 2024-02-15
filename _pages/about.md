@@ -16,7 +16,7 @@ Some topics that I find interesting:
 - causal inference,
 - uncertainty quantification,
 - surrogate modelling,
-- design optimisation,
+- design optimisation and
 - experimental design (to mention but a few).
 
 I am particularly interested in these topics under the umbrella of dynamical systems theory.
