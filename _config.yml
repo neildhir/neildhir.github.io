@@ -83,39 +83,12 @@ author:
   name             :
   avatar           : "face.jpg"
   # bio              : "I am a research scientist at Siemens and a visiting researcher at The ATI."
-  location         : "Berkeley, CA & Princeton, NJ"
+  location         : "San Francisco, CA"
   # employer         : "Siemens Corporate Technology"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=oXki9tsAAAAJ&hl=en"
   email            : "ndhir@turing.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Neil_Dhir"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "neildhir"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:

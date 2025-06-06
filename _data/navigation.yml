@@ -4,8 +4,8 @@ main:
 - title: "About"
   url: /cv/
 
-- title: "Causal Inference Interest Group"
-  url: /ciig/
+  # - title: "Causal Inference Interest Group"
+  #   url: /ciig/
 
   # - title: "Publications"
   #   url: /publications/

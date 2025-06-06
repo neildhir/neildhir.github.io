@@ -7,7 +7,7 @@ Apart from the stuff in the 'real' bio below, I like things which involve boards
 
 ## ~~Boring~~ Less interesting about
 
-Before joining Siemens Technology I was at the Alan Turing Institute (ATI), where I worked for a few years as a principal investigator, where my colleagues and I developed a number of methods for using causal inference and sequential decision-making for cybersecurity applications.
+Before joining Focused Energy I was at Siemens Technology (Berkeley and Princeton). At Siemens I was a principal investigator, exploring sequential decision-making (under uncertainty) under the assumption that causal knowledge is available. We looked at all manner of application areas from cybersecurity to robots. And before joining Siemens Technology I was at the Alan Turing Institute (ATI), where I worked for a few years as a principal investigator, where my colleagues and I developed a number of methods for using causal inference and sequential decision-making for cybersecurity applications.
 
 At the ATI I also completed postdoctoral work with [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) on the [London Air Quality project](https://www.turing.ac.uk/research/research-projects/london-air-quality), to try to elicit new ideas and understanding in this domain. I also helped organise [Project Odysseus](https://www.turing.ac.uk/research/research-projects/project-odysseus-understanding-london-busyness-and-exiting-lockdown) - a COVID-19 project.
 
