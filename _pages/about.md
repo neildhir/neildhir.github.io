@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am scientist at [Focused Energy](https://www.focused-energy.co). I am also a visiting researcher at the [Alan Turing Institute](http://www.turing.ac.uk/) and a visiting fellow at [Cranfield University](https://www.cranfield.ac.uk/themes/aerospace).
+I am a scientist at [Focused Energy](https://www.focused-energy.co). I am also a visiting researcher at the [Alan Turing Institute](http://www.turing.ac.uk/) and a visiting fellow at [Cranfield University](https://www.cranfield.ac.uk/themes/aerospace).
 
 Some topics that I find interesting:
 
